@@ -19,3 +19,9 @@ This is a Java-based user registration application that collects and validates u
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+## References
+
+* Oracle, 2023. JOptionPane (Java Platform SE 8). [Online]. Available: https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html
+* Oracle, 2023. Java Swing Tutorial: How to Make Dialogs. [Online]. Available: https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
+* W3Schools, 2023. Java JOptionPane. [Online]. Available: https://www.w3schools.com/java/java_user_input.asp
+* GeeksforGeeks, 2023. Java Swing | JOptionPane. [Online]. Available: https://www.geeksforgeeks.org/java-swing-joptionpane/
